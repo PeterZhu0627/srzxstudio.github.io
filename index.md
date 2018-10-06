@@ -240,17 +240,6 @@ function ClockString(dt) {
 <div class="block10"></div>
 <div class="links"> <em>友情链接</em>
 <p>
-<a href="http://www.cncyjm.com/" target="_blank">中国餐饮加盟网</a>
-<a href="https://canyin.321cy.com" target="_blank">餐饮加盟</a>
-<a href="http://www.haopeixun.com/" target="_blank">教育培训网</a>
-<a href="https://www.phb123.com/" target="_blank">品牌排行榜</a>
-<a href="https://www.321cy.com/" target="_blank">创业加盟网</a>
-<a href="http://fanwen.unjs.com/" target="_blank">精品范文网</a>
-<a href="http://www.tanmizhi.com" target="_blank">世界十大未解之谜</a>
-<a href="http://www.nhxz.com/" target="_blank">学习资料</a>
-<a href="http://wannianli.tianqi.com" target="_blank">万年历查询</a>
-<a href="http://www.joytrav.com/attraction/" target="_blank">美国旅游景点</a>
-<a href="http://lishi.tianqi.com" target="_blank">历史天气</a>
 <a href="http://www.24timemap.com/" target="_blank">时间网</a>
 </p>
 </div>
